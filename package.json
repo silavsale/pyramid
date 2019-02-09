@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/silavsale/pyramid-app/issues"
   },
-  "homepage": "https://github.com/silavsale/pyramid-app#readme"
+  "homepage": "https://github.com/silavsale/pyramid-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
 }
